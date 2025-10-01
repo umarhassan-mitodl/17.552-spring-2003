@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Social Welfare"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "bac1d5a8-340c-5a60-a896-5dc5b725d637",
+  "instructors": {
+    "content": [
+      "51bc62c4-185b-0a99-d78d-5476fbf63688"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e49970dd-2f87-da14-49dd-aa0401b36579",
+    "website": "17-552-political-economy-of-chinese-reform-spring-2003"
+  },
+  "course_title": "Political Economy of Chinese Reform",
+  "hide_download": true,
+  "course_description": "This course focuses on China's transition from plan to market. What has the trajectory of institutional change in China been, and how has growth been achieved? Is that growth sustainable? Subject examines specific aspects of reform (enterprise, fiscal, financial, social welfare), and the systemic consequences of interaction between various reform measures. Additional topics include the interaction between political and economic change, the transformation of state-society relations, and the generalizability of China's reform experience. Graduate students are expected to explore the subject in greater depth.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.551",
+  "primary_course_number": "17.552",
+  "course_image_thumbnail": {
+    "content": "e3c51548-d9b1-1725-d2b2-8b7117784998",
+    "website": "17-552-political-economy-of-chinese-reform-spring-2003"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [],
+  "site_uid": "32a72141-ed26-411c-843b-8f17c41539f0",
+  "site_short_id": "17.552-spring-2003",
+  "site_url_path": "courses/17-552-political-economy-of-chinese-reform-spring-2003",
+  "title": "Course Metadata"
+}
